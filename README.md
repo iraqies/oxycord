@@ -11,14 +11,14 @@
 
 ## OxyCord
 
-OxyCord is a standalone app for adding play time to the games on your Discord profile.
-Pick the games, pick the hours, and OxyCord does the rest.
+OxyCord adds play time to the games on your Discord profile.
+Pick the games and the hours, up to 400 per game. The time shows up on your profile after you press claim.
 
 1. Sign in with Discord. You log in on discord.com itself, never in a form of ours.
 2. Choose how many games and how many hours, up to 400 per game.
 3. Press claim, and the hours show up on your profile.
 
-Several accounts in one app, English and Arabic, with your login kept in your device's secure storage.
+It handles several accounts in English and Arabic and keeps login data in your device's secure storage.
 
 **[Download OxyCord](https://iraqies.github.io/oxycord/download/)**
 
